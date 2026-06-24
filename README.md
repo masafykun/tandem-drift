@@ -63,8 +63,9 @@ python3 -m http.server 8000
 ---
 
 ## ライセンス
-![License: Unspecified](https://img.shields.io/badge/License-Unspecified-lightgrey.svg?style=flat-square)
 
-現時点でこのリポジトリにはライセンスファイルが含まれていません。利用条件についてはリポジトリ管理者にお問い合わせください。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+このプロジェクトは **MIT ライセンス** のもとで公開しています。
 
 © 2026 masafykun (https://github.com/masafykun)
